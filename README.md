@@ -6,9 +6,9 @@ This app was BUILT using [NodeJS](https://nodejs.org/en/), [NeDB](https://github
 
 Usage screens- 
 
-![Test Image 1](./GROUP.JPG=100x20)
+![Test Image 1](./GROUP.JPG)
 
-![Test Image 2](./inaction.JPG=250px)
+![Test Image 2](./inaction.JPG)
 
-![Test Image 3](./page.JPG=100x20)
+![Test Image 3](./page.JPG)
 
