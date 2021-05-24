@@ -5,6 +5,6 @@ This is an automated Instagram posting service, using scraped media files from R
 This app was BUILT using [NodeJS](https://nodejs.org/en/), [NeDB](https://github.com/louischatriot/nedb), [ExpressJS](http://expressjs.com/), [Instagram-private-api](https://github.com/dilame/instagram-private-api), [Telegram-Bot-API](https://core.telegram.org/bots/api).
 
 Usage screens- 
-![Test Image 1](group.jpg)
-![Test Image 2](inaction.jpg)
-![Test Image 3](page.png)
+![Test Image 1](./group.JPG)
+![Test Image 2](./inaction.JPG)
+![Test Image 3](./page.JPG)
